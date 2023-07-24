@@ -82,16 +82,7 @@ function login(req, res) {
         }
     });
 };
-   
-//     if (userFound)
-//     {
-//         res.send("login successfull");
-//         }
-//         else {
-//             res.send("wrong details entered");
-//         }
-    
-// }
+
 
 
 // app.post("/signup", signup)
